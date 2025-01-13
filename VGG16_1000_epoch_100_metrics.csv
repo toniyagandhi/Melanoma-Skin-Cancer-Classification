@@ -1,0 +1,2 @@
+Combination,Accuracy,Precision,Recall,F1 Score,Test Accuracy,Test Loss,Validation Accuracy,Validation Loss,Cohen's Kappa,Matthews Correlation,Balanced Accuracy,True Positives,True Negatives,False Positives,False Negatives,Execution Time (s)
+1,0.4975,0.0,0.0,0.0,49.75000023841858,70.35003304481506,0.543749988079071,0.6908771395683289,0.0,,0.5,0,199,0,201,448.79830384254456
